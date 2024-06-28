@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Getting started with Reverie
-permalink: /getting-started/
+title: Community Management Book
+permalink: /the-book/
 ---
 
 ### Step 1) Fork Reverie to your User Repository

@@ -18,6 +18,8 @@
 html {
   font-size: 100%;
   height: 100%;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 body {
@@ -460,7 +462,7 @@ body:after {
 
 .page h1{
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  text-align: left;
+  text-align: center;
   font-weight: bold;
   font-kerning: auto;
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
@@ -474,7 +476,7 @@ body:after {
 }
 
 .post_date{
-  text-align: left;
+  text-align: center;
   color: #939aa1;
 }
 

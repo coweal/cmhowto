@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Community Management Book
+title: Practical Community Management. Lessons Learned While Working on Stack Overflow
 permalink: /the-book/
 ---
 

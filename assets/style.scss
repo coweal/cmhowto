@@ -299,6 +299,7 @@ p > img {
 
 .site-info {
   float: left;
+  width: 80%;
 
   @include mobile {
     float: none;
@@ -346,6 +347,7 @@ nav {
   }
 
   a {
+    margin-right: 20px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;

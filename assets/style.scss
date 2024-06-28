@@ -333,7 +333,7 @@ p > img {
 }
 
 nav {
-  float: right;
+  float: left;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
@@ -346,7 +346,6 @@ nav {
   }
 
   a {
-    margin-left: 20px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;

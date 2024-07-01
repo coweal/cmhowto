@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dealing with an Online Griefer You Know in Real Life: A Personal Approach
+title: Dealing with an Online Griefer You Know in Real Life
 categories: [community-modereation]
 excerpt: Managing an online community comes with its fair share of challenges, but nothing quite prepared me for dealing with an online griefer I knew in real life. It’s a situation that blurs the lines between the virtual and the personal, adding layers of complexity to an already delicate task. I’d like to share my experience and offer some advice for those who might find themselves in a similar predicament.
 ---
